@@ -43,6 +43,21 @@ Display order on the site matches the order above.
 
 Pricing is a per-box flat rate, not per-flavor. Flavor choice does not affect price.
 
+> **⚠️ Pricing conflict — unresolved. Do not build against either set until settled.**
+>
+> `content/ordering.json` carries a *different* price list, added separately:
+>
+> | | This doc (Flavour Menu PDF) | `content/ordering.json` |
+> |---|---|---|
+> | 1 cookie | $5 | — not offered — |
+> | 3 cookies | $10 | $13 |
+> | 6 cookies | $18 | $24 ("½ Dozen") |
+> | 12 cookies | $36 | $40 ("1 Dozen") |
+>
+> The second set is 30%, 33% and 11% higher and drops the single cookie entirely, which reads like a later price increase rather than a transcription error. Whichever is current, **one of these is wrong and both are in the repo.**
+>
+> The allergy notices also differ. `content/ORDERING.md` lists **wheat, dairy, eggs, peanuts, tree nuts and soy**; the FAQ text Krista supplied names only peanuts and tree nuts. The longer list is the more useful one — it answers the gap flagged under Open decisions about ingredients — but it needs confirming as Krista's own wording before it goes on the site.
+
 **Payment methods:** Online via Square (card + Apple Pay / Google Pay). In person, Square already handles tap debit/credit and exact cash. E-transfer is retired once the site is live.
 
 **Delivery:** Free across Western University's campus, included with every order. Larger orders may go beyond campus on request.
