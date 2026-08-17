@@ -23,6 +23,8 @@ Visitors don't need convincing that Krista's Kookies exists. They need to pick c
 
 **The circle is the core shape.** The logo is a circular tag and every cookie photo on their existing menu is a circular crop. Carry that through the whole site: circular flavour photos, circular slots in the box builder, circular avatars. This is the single strongest visual idea the brand has.
 
+**There's a playful mascot layer available.** The brand's existing menu has a page where cookies are given googly eyes, sunglasses and little sneakers, and the logo itself is a smiling cookie in a chef's hat. It's charming and very much the brand's voice. Use it **sparingly** — an empty box-builder state, the order confirmation, a 404. Keep it **out of the flavour grid**, where it competes with the photography.
+
 **Reference — structure only:** crumblcookies.com. Take its *structure* — the rotating weekly lineup as the hero, one card per cookie with photo + name + short description, a consistently available order button, generous whitespace. **Do not take its palette.** Crumbl is bright white and pink and corporate. This brand is warm cream and navy and hand-made.
 
 ## Colours — use these exactly
