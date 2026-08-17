@@ -42,6 +42,8 @@ Two of the three brand fonts are commercial and cannot be used on the web withou
 | Flavor labels | Loubag (Creative Media Lab, commercial) | **Chewy** | Keeps the menu's hand-drawn bounce. **Fredoka 600** is the cleaner, less comic alternative |
 | Body | Open Sauce | **Open Sauce** — unchanged | Already OFL and self-hostable |
 
+**Open Sauce is not on Google Fonts** — it must be self-hosted from [github.com/marcologous/Open-Sauce-Fonts](https://github.com/marcologous/Open-Sauce-Fonts) (SIL OFL, verified). Oleo Script and Chewy are both on Google Fonts. For mockups in tools that only load Google Fonts, **Nunito Sans** is a reasonable stand-in for Open Sauce; production should self-host the real thing.
+
 I rendered candidates side by side against the PDF's type before choosing; Oleo Script was clearly nearest for headings. Lobster, Pacifico, Grand Hotel and Kaushan Script were all too light or too brushy.
 
 If Krista or Elson want the exact brand fonts, both are purchasable — just make sure it's a **webfont** license, not desktop, and scoped to the final domain.

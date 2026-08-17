@@ -39,13 +39,15 @@ The pink is for seasonal moments (a Mother's Day special) and nothing else. Do n
 
 The logo carries its own browns — `#774a2d` ink, `#bb7d44` outline. Don't sample those for UI.
 
-## Typography — all free on Google Fonts
+## Typography
 
-| Role | Font |
-|---|---|
-| Headings and titles | **Oleo Script**, weight 700 — bold retro script |
-| Flavour names under photos | **Chewy** — hand-drawn bounce |
-| Body text, buttons, forms | **Open Sauce** (or Open Sauce Sans) |
+| Role | Font | Source |
+|---|---|---|
+| Headings and titles | **Oleo Script**, weight 700 — bold retro script | Google Fonts |
+| Flavour names under photos | **Chewy** — hand-drawn bounce | Google Fonts |
+| Body text, buttons, forms | **Nunito Sans** | Google Fonts |
+
+The brand's real body font is **Open Sauce**, which is free (SIL OFL) but **not on Google Fonts** — it has to be self-hosted from github.com/marcologous/Open-Sauce-Fonts. Use **Nunito Sans** as the stand-in for the mockup; it's a similar friendly, slightly rounded grotesque. The production site will self-host Open Sauce.
 
 Headings and flavour names both in navy `#000b3d`. Body in brown `#3c2519`.
 
@@ -131,6 +133,8 @@ This is the whole reason the site exists. The current Google Form lets people pi
 
 ### Flavours (display in this order)
 
+*Descriptions below are provisional — written from the flavour names and photos, not confirmed against the actual recipes. Fine for a mockup; they'll be rewritten before launch, so don't design a layout that depends on their exact length.*
+
 | Flavour | Description |
 |---|---|
 | Cosmic Brownie | A fudgy brownie of a cookie under a slick of chocolate ganache, scattered with rainbow candy chips. |
@@ -144,6 +148,8 @@ This is the whole reason the site exists. The current Google Form lets people pi
 ### Prices
 1 cookie $5 · 3 cookies $10 · 6 cookies $18 · 12 cookies $36
 Delivery is free, always. Mix and match any flavours.
+
+> ⚠️ **These prices are disputed.** A second source in the repo lists 3 for $13, 6 for $24, 12 for $40, with no single-cookie option. Use the numbers above for layout purposes, but treat them as placeholder — they may change before launch, so don't build a layout that only works with four price tiers.
 
 ### Box builder microcopy
 - Empty: *Your box is looking a little empty.*
