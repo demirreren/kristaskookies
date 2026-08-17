@@ -1,0 +1,17 @@
+{
+  "brand": "Krista's Kookies",
+  "pricing": [
+    { "item": "3 Cookies", "price": "$13" },
+    { "item": "½ Dozen", "price": "$24" },
+    { "item": "1 Dozen", "price": "$40" }
+  ],
+  "allergyNotice": {
+    "title": "Allergy Notice:",
+    "allergens": ["wheat", "dairy", "eggs", "peanuts", "tree nuts", "soy"],
+    "body": "KristaKookies are made in a home kitchen that handles common allergens, including wheat, dairy, eggs, peanuts, tree nuts, and soy. I take great care in preparing each order, but I cannot guarantee that products are completely free from cross-contact.\n\nIf you have a severe allergy, please keep this in mind before placing your order. If you have any specific concerns, feel free to reach out. I'm always happy to chat and answer questions 💛",
+    "acknowledgment": {
+      "required": true,
+      "label": "I understand"
+    }
+  }
+}
