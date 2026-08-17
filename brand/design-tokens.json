@@ -1,0 +1,16 @@
+{
+  "brand": "Krista's Kookies",
+  "colors": {
+    "background": "#f4e7d1",
+    "backgroundAlt": "#f0e8d3",
+    "text": "#3c2519",
+    "textAccent": "#000b3d",
+    "modalBackground": "#e1cfb3",
+    "accentPink": "#ffd6d6"
+  },
+  "fonts": {
+    "heading": "Candice",
+    "flavorLabel": "Loubag",
+    "body": "Open Sauce"
+  }
+}
