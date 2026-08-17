@@ -2,6 +2,10 @@
 
 Website for Krista's Kookies — a home-based cookie business serving Western University's campus.
 
+> **Designing from this repo?** [`DESIGN-BRIEF.md`](DESIGN-BRIEF.md) is the authoritative spec — brand, colours, type, page structure, copy, and the box-builder rules, all decided. Assets are in `brand/logo.png` and `assets/photos/`.
+>
+> Ignore [`PROJECT.md`](PROJECT.md) (payments and business operations, not design) and `content/ordering.json` (contains a disputed second price list). Where docs disagree, `DESIGN-BRIEF.md` wins.
+
 ## Project docs
 - [`PROJECT.md`](PROJECT.md) — business details, site structure, the build-a-box requirement, and the Square payments/orders approach
 - [`DESIGN.md`](DESIGN.md) — art direction, typography, page structure, photography brief
